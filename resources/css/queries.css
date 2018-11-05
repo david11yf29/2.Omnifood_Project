@@ -25,6 +25,13 @@
         margin-left: 10%;
     }
     
+    .steps-box {
+        margin-top: 10px;
+    }
+    
+    .works-step {
+        margin-bottom: 40px;
+    }
 }
 
 /* Small phones to small tables: from 481 to 767px */
